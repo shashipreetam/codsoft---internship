@@ -33,6 +33,7 @@ nav a {
 }
 
 .hero {
+    font-style: italic;
     text-align: center;
     padding: 2em;
 }
@@ -44,6 +45,10 @@ nav a {
 }
 
 .feature {
+    text-align: center;
+}
+
+.contact {
     text-align: center;
 }
 
