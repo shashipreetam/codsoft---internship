@@ -3,3 +3,6 @@ This repository contains files that completion of tasks given by codsoft interns
 
 Task 1:
 Landing page
+
+Task 2:
+Portfolio
